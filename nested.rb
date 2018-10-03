@@ -15,7 +15,6 @@ def hopper
           :languages => ["C"]
         }
      }
-return programmer_hash[:grase_hopper]
 
 end
 
